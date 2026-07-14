@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "run_dir": "/Users/simon/Dropbox/dev/pedalican-pet/run",
+  "spritesheet": "/Users/simon/Dropbox/dev/pedalican-pet/run/final/spritesheet.webp",
+  "validation": "/Users/simon/Dropbox/dev/pedalican-pet/run/final/validation.json",
+  "contact_sheet": "/Users/simon/Dropbox/dev/pedalican-pet/run/qa/contact-sheet.png",
+  "review": "/Users/simon/Dropbox/dev/pedalican-pet/run/qa/review.json",
+  "package": "/Users/simon/.codex/pets/pedalican",
+  "visual_qa": {
+    "status": "pass",
+    "note": "All contact-sheet rows and GIFs are clean, consistent, correctly directed, semantically clear, and free of magenta fringe or speckles.",
+    "repair_rows": []
+  },
+  "spritesheet_sha256": "ad2331b746508bdfee7f9f377e64c9b44333dada0399589cbb289fbcebdad405"
+}
