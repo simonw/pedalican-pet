@@ -9,6 +9,8 @@ Skills used;
 - [hatch-pet](https://github.com/openai/skills/tree/49f948faa9258a0c61caceaf225e179651397431/skills/.curated/hatch-pet) from `openai/skills`
 - [imagegen](https://github.com/openai/codex/tree/f90e7deea6a715bbd153044af6f475eefa749177/codex-rs/skills/src/assets/samples/imagegen) from `openai/codex`
 
+More details [on my blog](https://simonwillison.net/2026/Jul/14/pedalican/).
+
 The generated run artifacts are prepared under `run/`. Final validated files will be packaged into the local Codex pets directory after the image-generation jobs complete.
 
 ## Final spritesheet.png
